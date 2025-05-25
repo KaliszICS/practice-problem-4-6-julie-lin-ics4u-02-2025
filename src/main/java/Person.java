@@ -90,13 +90,6 @@ public class Person {
         return Arrays.copyOf(this.siblings, this.siblings.length);
     }
 
-    public String getSsn() {
-        return ssn;
-    }
-
-    public int getNumberOfSiblings() {
-        return numberOfSiblings;
-    }
 }
     
     
